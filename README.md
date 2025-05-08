@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Rafael Morales Aguilera
 
 🎓 Estudiante de último año de **Ingeniería Civil Informática** en la [Universidad Católica del Maule](https://www.ucm.cl).  
 Apasionado por el desarrollo de software, la creación de soluciones eficientes y el aprendizaje constante.
