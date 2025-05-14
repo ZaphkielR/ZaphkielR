@@ -1,12 +1,11 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![Descripción de la imagen](./banner.jpg)
 
 ### Hello 🌎, I'm Rafael Morales
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
   <!-- Imagen a la derecha -->
-  <div style="flex: 1; display: flex; justify-content: center; min-width: 250px;">
+  <div style="flex: 1; display: flex; justify-content: center; min-width: 150px;">
     <img src="./character.png" alt="Character" style="max-width: 100%; height: auto;" />
   </div>
 
