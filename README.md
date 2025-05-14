@@ -1,12 +1,30 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+![Descripción de la imagen](./banner.jpg)
+
 ### Hello 🌎, I'm Rafael Morales
 
-🎓 I'm a Civil Informatics Engineering student in my final year at Universidad Católica del Maule, Chile. Passionate about backend development, I'm driven by the desire to build efficient, meaningful solutions that simplify complexity and bring real value to users. While backend is my focus, I'm always open to exploring the frontend world when the project demands it.
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+  <!-- Imagen a la derecha -->
+  <div style="flex: 1; display: flex; justify-content: center; min-width: 250px;">
+    <img src="./character.png" alt="Character" style="max-width: 100%; height: auto;" />
+  </div>
 
-🚀 I thrive in dynamic, non-repetitive environments where learning never stops. I'm a self-taught explorer of new technologies, always looking for ways to grow and stay ahead. My ideal future lies in remote or hybrid roles where innovation, autonomy, and impact come together.
+  <!-- Texto a la izquierda -->
+  <div style="flex: 1; min-width: 250px;">
+    🎓 Soy estudiante de Ingeniería Civil Informática en mi último año en la Universidad Católica del Maule, Chile. Apasionado por el desarrollo backend, me impulsa el deseo de construir soluciones eficientes y significativas que simplifiquen la complejidad y aporten un valor real a los usuarios. Aunque el backend es mi enfoque principal, siempre estoy abierto a explorar el mundo del frontend cuando el proyecto lo requiere.
+    <br/>
+    <br/>
+    🚀 Me desenvuelvo en entornos dinámicos y no repetitivos donde el aprendizaje es constante. Soy un explorador autodidacta de nuevas tecnologías, siempre buscando formas de crecer y mantenerme a la vanguardia. Mi futuro ideal se encuentra en roles remotos o híbridos donde la innovación, la autonomía y el impacto se unan.
+    <br/>
+    <br/>
+    ¡Construyamos el futuro, una línea de código a la vez!
 
-Let's build the future, one line of code at a time!
+  </div>
+
+  
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,12 +43,10 @@ Let's build the future, one line of code at a time!
     <img style="width: 80%; max-width: 600px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaphkielR&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lenguajes más usados por ZaphkielR"/>
   </a>
 
-
   <a href="https://github.com/ZaphkielR">
     <img style="width: 80%; max-width: 600px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaphkielR&&theme=tokyonight" alt="Racha de contribuciones de ZaphkielR" />
   </a>
 </div>
-
 
 ---
 
@@ -65,5 +81,4 @@ Let's build the future, one line of code at a time!
         <td><img height="40" src="https://skillicons.dev/icons?i=postman,bun,latex,npm,tensorflow,pytorch"/></td>
     </tr>
 
-    
 </table>
