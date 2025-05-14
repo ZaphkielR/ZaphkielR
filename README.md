@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
   <!-- Imagen a la derecha -->
-  <div style="flex: 1; display: flex; justify-content: center; min-width: 150px;">
+  <div style="flex: 1; display: flex; justify-content: center; width: 60px;">
     <img src="./character.png" alt="Character" style="max-width: 100%; height: auto;" />
   </div>
 
