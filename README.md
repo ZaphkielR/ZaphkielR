@@ -4,10 +4,6 @@
 ### Hello 🌎, I'm Rafael Morales
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-  <!-- Imagen a la derecha -->
-  <div style="flex: 1; display: flex; justify-content: center; width: 250px;">
-    <img src="./character.png" alt="Character" style="max-width: 250px; height: auto;" />
-  </div>
 
   <!-- Texto a la izquierda -->
   <div style="flex: 1; min-width: 250px;">
