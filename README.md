@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="left">Activity:</h3>
+<!-- <h3 align="left">Activity:</h3>
 
 <div align="center">
   <a href="https://github.com/ZaphkielR">
@@ -41,7 +41,7 @@
   <a href="https://github.com/ZaphkielR">
     <img style="width: 80%; max-width: 600px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaphkielR&&theme=tokyonight" alt="Racha de contribuciones de ZaphkielR" />
   </a>
-</div>
+</div> -->
 
 ---
 
