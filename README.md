@@ -7,13 +7,13 @@
 
   <!-- Texto a la izquierda -->
   <div style="flex: 1; min-width: 250px;">
-    🎓 Soy estudiante de Ingeniería Civil Informática en mi último año en la Universidad Católica del Maule, Chile. Apasionado por el desarrollo backend, me impulsa el deseo de construir soluciones eficientes y significativas que simplifiquen la complejidad y aporten un valor real a los usuarios. Aunque el backend es mi enfoque principal, siempre estoy abierto a explorar el mundo del frontend cuando el proyecto lo requiere.
+    🎓 I’m a final-year Computer Civil Engineering student at the Universidad Católica del Maule, Chile. Passionate about backend development, I’m driven by the desire to build efficient and meaningful solutions that simplify complexity and deliver real value to users. While backend is my main focus, I’m always open to exploring the frontend world when the project requires it.
     <br/>
     <br/>
-    🚀 Me desenvuelvo en entornos dinámicos y no repetitivos donde el aprendizaje es constante. Soy un explorador autodidacta de nuevas tecnologías, siempre buscando formas de crecer y mantenerme a la vanguardia. Mi futuro ideal se encuentra en roles remotos o híbridos donde la innovación, la autonomía y el impacto se unan.
+    🚀  I thrive in dynamic, non-repetitive environments where continuous learning is key. I’m a self-taught explorer of new technologies, constantly seeking ways to grow and stay at the forefront. My ideal future lies in remote or hybrid roles where innovation, autonomy, and impact come together.  
     <br/>
     <br/>
-    ¡Construyamos el futuro, una línea de código a la vez!
+    Let’s build the future, one line of code at a time!
 
   </div>
 
